@@ -1,0 +1,1 @@
+To start the game, run the sudoku.py file
